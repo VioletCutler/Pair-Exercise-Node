@@ -7,3 +7,5 @@ const ls = require('./ls');
 console.log(Object.keys(ls))
 
 ls();
+
+const fsCat = require('./fsCat')
